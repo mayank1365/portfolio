@@ -24,7 +24,7 @@ function Projects() {
               title="Business Website"
               description="A business website showcasing services, portfolio, and team to attract clients and share company information."
               ghLink="https://github.com/mayank1365/Business_Website"
-              demoLink="https://mayank1365.github.io/Hackathon-Project-1/#"
+              demoLink="https://mayank1365.github.io/Business_Website/"
             />
           </Col>
 
